@@ -1,0 +1,26 @@
+{
+  "name": "leapicons",
+  "version": "0.0.1",
+  "description": "Leapicons icon pack by Leapfrog Technology, Inc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leapfrogtechnology/Leapicons.git"
+  },
+  "keywords": [
+    "icons",
+    "lineicons",
+    "leapicons",
+    "leapfrog",
+    "lftechnology"
+  ],
+  "author": "Leapicon Authors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leapfrogtechnology/Leapicons/issues"
+  },
+  "homepage": "https://github.com/leapfrogtechnology/Leapicons#readme"
+}
