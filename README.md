@@ -8,4 +8,4 @@
 <p>For icon requests, please <a href="https://github.com/leapfrogtechnology/Leapicons/issues/new">Create an Issue</a>.</p>
 
 <h2>License</h2>
-<p>Leapicons is licensed under the MIT License.<p>
+<p>Leapicons is licensed under the <a href="https://github.com/leapfrogtechnology/Leapicons/blob/master/License">MIT License</a>.<p>
