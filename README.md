@@ -1,5 +1,5 @@
 <h1>Leapicons</h1>
-<p>Leapicons are the Open source icons developed by Leapfrog Technology Inc.</p>
+<p>Leapicons are the Open source icons developed by <a href="https://www.lftechnology.com/">Leapfrog Technology Inc</a>.</p>
 
 <h2>Getting Started</h2>
 <p>Coming Soon.</p>
