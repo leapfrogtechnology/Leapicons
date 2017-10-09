@@ -29,14 +29,14 @@ At this point, you're ready to make your changes! Feel free to ask for help; eve
 
 ## Branching:
 
--__Always make a branch from the dev branch__. Work on a new branch created from the dev branch. Never create branch from the master and always send a *pull request* to the dev branch.
--__Name branch appropriately__. Name your branches with the related category your icons fall under. For example if creating Weather icons; the branch would be named *weather*.
+1. __Always make a branch from the dev branch__. Work on a new branch created from the dev branch. Never create branch from the master and always send a *pull request* to the dev branch.
+2. __Name branch appropriately__. Name your branches with the related category your icons fall under. For example if creating Weather icons; the branch would be named *weather*.
 
 ## Guidelines for pull requests:
 
-- __Make your commit messages as descriptive as possible.__ Include as much information as you can. Explain anything that the file diffs themselves won’t make apparent.
-- __Document your pull request__. Explain your fix, link to the relevant issue, add screenshots when adding new icons.
-- __Include only related work__. If your pull request has unrelated commit, it won't be accepted.
+1. __Make your commit messages as descriptive as possible.__ Include as much information as you can. Explain anything that needs to be focused in detail.
+2. __Document your pull request__. Explain your fix, link to the relevant issue, add screenshots when adding new icons.
+3. __Include only related work__. If your pull request has unrelated commit, it won't be accepted.
 
 # Requesting a new Icon
 
@@ -47,7 +47,7 @@ If the icon has not already been requested, [create an issue](https://github.com
 # Getting started
 
 For something that is bigger fix:
-1. Create your own fork of the code
+1. Create your own fork of the repo
 2. Do the changes in your fork
 3. If you like the change and think the project could use it:
     * Be sure you have followed the code style for the project.

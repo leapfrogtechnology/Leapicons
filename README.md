@@ -34,7 +34,7 @@ You can find our png files on the png folder. Here is a quick snippet on how to 
 
 ### Advanced Usage:
 
-You can find our illustrator file under src folder. You can edit icons based on your requirements. Please read our design and contribution guidelines.
+You can find our illustrator file under src folder. You can edit icons based on your requirements. Please read our design and [contribution guidelines](https://github.com/leapfrogtechnology/Leapicons/blob/master/CONTRIBUTING.md).
 
 ## Contributing
 
