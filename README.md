@@ -5,14 +5,13 @@ Leapicons are the Open source icons developed by [Leapfrog Technology Inc](https
 ![leapicons](https://user-images.githubusercontent.com/9412395/27432866-c7aa7c46-5771-11e7-93cb-15ba43f48128.png "Leapicons")
 
 
-## Leapicons Features
+## Features
 
-<ul>
-  <li>Well categorized icon pack by Leapfrog.</li>
-  <li>Adobe Illustrator file for editing and contribution. Read our contribution guidelines.</li>
-  <li>Svg raster files.</li>
-  <li>PNG raster images in 16px, 24px, 32px, 48px, 64px, 96px, 128px, 256px and 512px.</li>
-</ul>
+* Well categorized icon pack by Leapfrog.
+* Adobe Illustrator file for editing and contribution. Read our contribution guidelines.
+* Svg raster files.
+* PNG raster images in 16px, 24px, 32px, 48px, 64px, 96px, 128px, 256px and 512px.
+
 
 ## Getting Started
 These instructions will get you how to implement Leapicons for your project.
@@ -39,7 +38,14 @@ You can find our illustrator file under src folder. You can edit icons based on 
 
 ## Contributing
 
-## Code of Conduct
+Please read the [CONTRIBUTING guidelines](https://github.com/leapfrogtechnology/Leapicons/blob/master/CONTRIBUTING.md) for details on how to contribute.
+Also read the Code of Conduct [here](https://github.com/leapfrogtechnology/Leapicons/blob/master/CODE_OF_CONDUCT.md).
+
+## Bugs
+
+Report a bug by opening an [issue](https://github.com/leapfrogtechnology/Leapicons/issues/new).
+
+Guidelines for bug report at [CONTRIBUTING.md](https://github.com/leapfrogtechnology/Leapicons/blob/master/CONTRIBUTING.md).
 
 ## Requesting Icons
 
